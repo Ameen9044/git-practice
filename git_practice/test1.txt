@@ -1,2 +1,2 @@
-first commit
+first commit in feature branch
 Commited in first feature branch abcd
